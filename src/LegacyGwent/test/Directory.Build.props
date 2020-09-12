@@ -1,5 +1,0 @@
-<Project>
-
-    <Import Project="$(MSBuildThisFileDirectory)/../build/LegacyGwent.test.props"/>
-
-</Project>
